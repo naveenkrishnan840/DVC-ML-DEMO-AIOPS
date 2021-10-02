@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: src
+Version: 0.0.1
+Summary: DVC
+Home-page: https://github.com/naveenkrishnan840/DVC-ML-DEMO-AIOPS
+Author: naveen
+Author-email: naveenkrishnan840@gmail.com
+License: UNKNOWN
+Description: DVC_DEMO
+Platform: UNKNOWN
+Requires-Python: >=3.7

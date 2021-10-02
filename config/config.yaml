@@ -1,6 +1,6 @@
 
 
-data_soruce : http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+data_source : http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
 
 artifacts: 
   artifact_dir : artifacts
